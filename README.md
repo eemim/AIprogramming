@@ -2,4 +2,6 @@
 
 ### Homework for AI Programming course
 
-All the scripts are not entirely my creation (f.ex. some of the visual representations and parts of the code were given as base), but the repository represents methods and libraries used in this AI Programming course.
+Not all scripts are entirely my creation (e.g., some visual representations and parts of the code were provided as a base), but this repository represents the methods and libraries used in the AI Programming course.
+
+*Note that only the code is included in this repository. Datasets and other materials are not included.*
